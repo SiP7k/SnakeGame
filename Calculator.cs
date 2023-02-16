@@ -18,7 +18,7 @@ namespace SnakeGame
             return a - b;
         }
 
-        public int Miltiplication(int a, int b)
+        public int Multiplication(int a, int b)
         {
             return a * b;
         }
